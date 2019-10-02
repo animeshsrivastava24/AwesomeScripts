@@ -3,6 +3,11 @@ Synonyms: unadorned, subdued, stark
 “Not all Western airports have austere arrival concourses à la Heathrow; many have eateries and bars...”
 Source: "Airport arrivals: something to celebrate" published in The Economist
 
+Accrue: verb, Accumulate or receive (payments or benefits) over time
+Synonyms: accumulate, collect, gather
+"Provincial and local governments have accrued ever more powers. They now account for half of all government spending."
+Source: "In remote parts of Indonesia, voters feel let down" published in The Economist
+
 Blight: noun, a thing that spoils or damages something
 Synonyms: affliction, scourge, bane
 “Yet the USFS predicts that within a couple of decades, because of slowing growth and climate-related blights, the forests will become an emissions source.”
@@ -22,3 +27,5 @@ Bolster: verb, Support or strengthen
 Synonyms: reinforce, prop up, boost
 “If the results are confirmed, they will bolster voters’ belief in the system.”
 Source: "Could a recount overturn the election result?" published in The Economist
+
+
