@@ -22,3 +22,8 @@ Annul: verb, Declare invalid
 Synonyms: repeal, reverse, rescind
 “Last month’s election was a re-run of a vote in October 2015, the results of which were annulled after several candidates alleged electoral malpractice.”
 Source: "Haiti’s probable new president" published in The Economist
+
+Malevolent: adjective, Having or showing a wish to do evil to others
+Synonyms: malicious, spiteful, hostile
+"Today convergence is dead. America has come to see China as a strategic rival—a malevolent actor and a rule-breaker..."
+Source: "The end of engagement" published in The Economist
