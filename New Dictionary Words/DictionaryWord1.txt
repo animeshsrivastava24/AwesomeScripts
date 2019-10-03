@@ -25,3 +25,9 @@ Source: "From folly to fragmentation" published in The Economist
 Ascend: verb, Go up or climb
 Synonyms: come up, go up, move up
 Source: "Why Americans and Britons work such long hours" published in The Economist
+
+Anguish: noun, Severe mental or physical pain or suffering
+Synonyms: agony, pain, torment
+"It is a manifestation not just of individual anguish but also of a collective failure: if society is too painful to live in, perhaps we are all culpable."
+Source: "Why suicide is falling around the world, and how to bring it down more" published in The Economist
+
