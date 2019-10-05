@@ -1,0 +1,11 @@
+{
+  "name": "Desktop",
+  "description": "TODO: Add a short description about Desktop",
+  "keywords": [
+    "small",
+    "sharp",
+    "tool"
+  ],
+  "addons": [],
+  "env": {}
+}
