@@ -21,3 +21,5 @@ Chronic: adjective, (Of a problem) long lasting and difficult to eradicate
 Synonyms: constant, continuing, persistent
 “Pessimists think the productivity problem is chronic. Technological advances, they say, are ever-less revolutionary...”
 Source: "Econundrum" published in The Economist
+
+Apathy: noun, Lack of interest, enthusiasm, or concern
