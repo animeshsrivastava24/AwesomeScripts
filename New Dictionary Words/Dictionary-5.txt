@@ -22,4 +22,9 @@ Synonyms: constant, continuing, persistent
 “Pessimists think the productivity problem is chronic. Technological advances, they say, are ever-less revolutionary...”
 Source: "Econundrum" published in The Economist
 
-Apathy: noun, Lack of interest, enthusiasm, or concern
+Compunction: noun, A feeling of guilt or moral scruple that prevents or follows the doing of something bad
+Synonyms: misgivings, qualms, worries
+“The prime minister has raised the zealots’ expectations. He may not want to take things too far—he has a country to govern—but they will have no such compunction.”
+Source: "Narendra Modi stokes divisions in the world’s biggest democracy" published in The Economist
+
+
