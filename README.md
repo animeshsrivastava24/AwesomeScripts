@@ -1,5 +1,5 @@
-# AwesomeScripts
-The Repository is dedicated to Collection of Awesome Works which you can showcase with the World. Please fork, star and follow if you like this repository.
+ # Awesome_Scripts
+The Repository is dedicated for the Collection of Awesome Works which you can showcase to  the World. Please fork, star and follow if you like this repository.
 Be it:
 ## New Dictionary Words
 ## Awesome Python Scripts
@@ -7,4 +7,5 @@ Be it:
 ## Games
 ## Beautiful Websites
 Or any other cool stuff.
-Moreover we're labeling the Issues with Hacktoberfest Label to Showcase your Contributions.
+Moreover we're labelling the Issues with Hacktoberfest Label to Showcase your Contributions.  
+## hactoberfest 
